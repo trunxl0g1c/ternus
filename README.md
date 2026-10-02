@@ -1,14 +1,5 @@
 # TERNUS Inventory — XAMPP v1.1 (Modular + Tailwind)
 
-> **Paket siap repository GitHub:** baca [PANDUAN_GITHUB.md](PANDUAN_GITHUB.md)
-> untuk upload pertama, menjalankan aplikasi, dan push perubahan.
->
-> **Sebelum menjalankan:** salin `server/config.example.php` menjadi
-> `server/config.php`, lalu sesuaikan koneksi database. File konfigurasi lokal
-> diabaikan oleh Git dan tidak disertakan dalam paket. Jika konfigurasi sudah ada,
-> pertahankan file tersebut.
-
-
 Aplikasi web lokal untuk operasional kopi Teras Nusantara. Tidak memerlukan npm, Composer, koneksi internet, atau proses build. Antarmuka menggunakan index.html, JavaScript ES modules, dan Tailwind CSS lokal; penyimpanan permanen memakai PHP + MySQL/MariaDB.
 
 ## Perubahan versi 1.1
